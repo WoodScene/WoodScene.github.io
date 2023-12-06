@@ -47,11 +47,11 @@ Dialog Systems, Pre-trained Language Models
 * Merit student of Harbin Institute of Technology 2016, 2017, 2018  
 
 # Activity and Service
-* **Teaching Assistant**  
-  COMP 6704: Advanced Topics in Optimization, Fall 2024 | 2023, PolyU  
+* **Teaching Assistant**    
+  COMP 6704: Advanced Topics in Optimization, Fall 2024 | 2023, PolyU   
   COMP 5523: Computer Vision and Image Processing, Spring 2023 | 2022, PolyU  
-  COMP 2021: Data Structures, Fall 2023 | 2022, PolyU
-  C Language 2016， HIt,wh. 
+  COMP 2021: Data Structures, Fall 2023 | 2022, PolyU   
+  C Language 2016， HIt,wh.   
 
 * **Conference Reviewer**  
   EMNLP 2023.
