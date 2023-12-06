@@ -32,10 +32,10 @@ Dialog Systems, Pre-trained Language Models
 
 * Completing missing prevalence rates for multiple chronic diseases by jointly leveraging both intra-and inter-disease population health data correlations. [[PDF](https://dl.acm.org/doi/abs/10.1145/3442381.3449811)] [[Code](https://github.com/WoodScene/Compressive-Population-Health)]
   **Yujie Feng**, Jiangtao Wang, Yasha Wang, Sumi Helal.
-  Proceedings of the Web Conference 2021 (**WWW 2021**).  
+  Proceedings of the Web Conference 2021 (**WWW 2021**).
 
 # Preprint
-* How Good Are Large Language Models at Out-of-Distribution Detection? 
+* How Good Are Large Language Models at Out-of-Distribution Detection?
   Bo Liu, Liming Zhan, Zexin Lu, **Yujie Feng**, Lei Xue, Xiao-Ming Wu.
   arXiv 2308.
 
