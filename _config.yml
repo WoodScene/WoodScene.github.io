@@ -11,9 +11,9 @@ title                    : "Yujie Feng / Homepage"
 title_separator          : "-"
 name                     : &name "Yujie Feng"
 description              : &description "personal description"
-url                      : https://woodscene.github.io/yujie.feng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://woodscene.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "woodscene.github.io/yujie.feng.github.io"
+repository               : "woodscene.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
