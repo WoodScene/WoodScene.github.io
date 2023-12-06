@@ -33,4 +33,4 @@ author_profile: true
 
 # Preprint
 * How Good Are Large Language Models at Out-of-Distribution Detection?  
-  Bo Liu, Liming Zhan, Zexin Lu, **Yujie Feng**, Lei Xue, Xiao-Ming Wu.  2023。
+  Bo Liu, Liming Zhan, Zexin Lu, **Yujie Feng**, Lei Xue, Xiao-Ming Wu.  2023.
