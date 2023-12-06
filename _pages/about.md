@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student at Department of Computing, The Hong Kong Polytechnic University (PolyU), under the supervision of [Prof. Xiao-Ming Wu](https://www4.comp.polyu.edu.hk/~csxmwu/).
-Prior to that, I obtained my Master degree from Peking University (PKU) under the supervision of [Prof. Yasha Wang](https://faculty.pku.edu.cn/wangyasha/zh_CN/more/10532/jsjjgd/index.htm) and Bachelor degree from Harbin Institute of Technology, Weihai (HIT).
+I am a second-year PhD student at Department of Computing, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), under the supervision of [Prof. Xiao-Ming Wu](https://www4.comp.polyu.edu.hk/~csxmwu/).
+Prior to that, I obtained my Master degree from [Peking University (PKU)](https://www.pku.edu.cn/) under the supervision of [Prof. Yasha Wang](https://faculty.pku.edu.cn/wangyasha/zh_CN/more/10532/jsjjgd/index.htm) and Bachelor degree from [Harbin Institute of Technology, Weihai (HIT)](https://www.hitwh.edu.cn/).
 
 # Research Interests
 I have broad interests in Natural Language Processing (NLP), especially in its integration with Large Language Models. My primary research focuses on dialog systems, including tasks such as dialogue state tracking (DST).  
@@ -49,7 +49,7 @@ Previously, during my master's studies, I conducted research on spatial-temporal
   COMP 6704: Advanced Topics in Optimization, Fall 2024 | 2023, PolyU   
   COMP 5523: Computer Vision and Image Processing, Spring 2023 | 2022, PolyU  
   COMP 2021: Data Structures, Fall 2023 | 2022, PolyU     
-  C Language Fall 2017 | 2016, HITwh.   
+  C Language, Fall 2017 | 2016, HITwh  
 * **Conference Reviewer**  
   EMNLP 2023.
 
