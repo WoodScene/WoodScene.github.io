@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student at The Hong Kong Polytechnic University (PolyU) under the supervision of [Prof. Xiao-Ming Wu](https://www4.comp.polyu.edu.hk/~csxmwu/).
+I am a second-year PhD student at Department of Computing, The Hong Kong Polytechnic University (PolyU), under the supervision of [Prof. Xiao-Ming Wu](https://www4.comp.polyu.edu.hk/~csxmwu/).
 Prior to that, I obtained my Master degree from Peking University (PKU) under the supervision of [Prof. Yasha Wang](https://faculty.pku.edu.cn/wangyasha/zh_CN/more/10532/jsjjgd/index.htm) and Bachelor degree from Harbin Institute of Technology, Weihai (HIT).
 
 # Research Interests
-Dialog Systems, Pre-trained Language Models
+I have broad interests in Natural Language Processing (NLP), especially in its integration with Large Language Models. My primary research focuses on dialog systems, including tasks such as dialogue state tracking (DST).  
+
+Previously, during my master's studies, I conducted research on spatial-temporal data imputation using Generative Adversarial Networks (GAN).  
 
 # News
-* 2023.10 One paper is accepted by EMNLP 2023!
+* 2023.10 One paper is accepted by EMNLP 2023.
 
 # Publications
 * Towards LLM-driven Dialogue State Tracking. [[PDF](https://arxiv.org/pdf/2310.14970.pdf)] [[Code](https://github.com/WoodScene/LDST)]  
@@ -34,10 +36,6 @@ Dialog Systems, Pre-trained Language Models
   **Yujie Feng**, Jiangtao Wang, Yasha Wang, Sumi Helal.  
   Proceedings of the Web Conference 2021 (**WWW 2021**).  
 
-# Preprint
-* How Good Are Large Language Models at Out-of-Distribution Detection?  
-  Bo Liu, Liming Zhan, Zexin Lu, **Yujie Feng**, Lei Xue, Xiao-Ming Wu.  
-  arXiv 2308. 
 
 # Honors and Awards
 * Excellent Graduation Thesis of Peking University 2022  
@@ -51,11 +49,9 @@ Dialog Systems, Pre-trained Language Models
   COMP 6704: Advanced Topics in Optimization, Fall 2024 | 2023, PolyU   
   COMP 5523: Computer Vision and Image Processing, Spring 2023 | 2022, PolyU  
   COMP 2021: Data Structures, Fall 2023 | 2022, PolyU     
-  C Language 2016, HIt wh.   
-
+  C Language 2016, HITwh.   
 * **Conference Reviewer**  
   EMNLP 2023.
 
-  
-# Internships
-* Tsinghua University, Nov 2018 – Jun 2019
+# Experiences
+* 2018/11 - 2019/06: Research intern at Tsinghua University. (Advisor: Dr. [Zhichao Li](https://scholar.google.com.hk/citations?user=AQ1zeEcAAAAJ&hl=zh-CN&oi=sra))
