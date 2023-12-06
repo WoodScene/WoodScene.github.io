@@ -14,7 +14,7 @@ Prior to that, I obtained my Master degree from [Peking University (PKU)](https:
 # Research Interests
 I have broad interests in Natural Language Processing (NLP), especially in its integration with Large Language Models. My primary research focuses on dialog systems, including tasks such as dialogue state tracking (DST).  
 
-Previously, during my master's studies, I conducted research on spatial-temporal data imputation using Generative Adversarial Networks (GAN).  
+Previously, during my master's studies, I did some research on spatial-temporal data imputation using Generative Adversarial Networks (GAN).  
 
 # News
 * 2023.10 One paper is accepted by EMNLP 2023.
