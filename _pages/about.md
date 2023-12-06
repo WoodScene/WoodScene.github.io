@@ -18,9 +18,9 @@ Dialog Systems, Pre-trained Language Models
 * 2023.10 One paper is accepted by EMNLP 2023!
 
 # Publications
-* Towards LLM-driven Dialogue State Tracking. [PDF](https://arxiv.org/pdf/2310.14970.pdf) [Code](https://github.com/WoodScene/LDST)
-  **Yujie Feng**, Zexin Lu, Bo Liu, Liming Zhan, Xiao-Ming Wu.
-  Conference on Empirical Methods in Natural Language Processing (**EMNLP 2023**).
+* Towards LLM-driven Dialogue State Tracking. [[PDF](https://arxiv.org/pdf/2310.14970.pdf)] [[Code](https://github.com/WoodScene/LDST)]  
+  **Yujie Feng**, Zexin Lu, Bo Liu, Liming Zhan, Xiao-Ming Wu.  
+  Conference on Empirical Methods in Natural Language Processing (**EMNLP 2023**).  
 
 * Spatial-Attention and Demographic-Augmented Generative Adversarial Imputation Network for Population Health Data Reconstruction. [PDF](https://ieeexplore.ieee.org/abstract/document/9976200)[Code](https://github.com/WoodScene/SDAGAIN)
   **Yujie Feng**, Jiangtao Wang, Yasha Wang, Xu Chu.
