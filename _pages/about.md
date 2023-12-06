@@ -38,12 +38,24 @@ Dialog Systems, Pre-trained Language Models
 * How Good Are Large Language Models at Out-of-Distribution Detection?  
   Bo Liu, Liming Zhan, Zexin Lu, **Yujie Feng**, Lei Xue, Xiao-Ming Wu.  
   arXiv 2308. 
-  
 
 # Honors and Awards
-* Excellent Graduation Thesis of Peking University
-* Merit student of Peking University
+* Excellent Graduation Thesis of Peking University 2022  
+* Merit student of Peking University 2020  
+* Outstanding Graduates of Shandong Province 2019   
+* Excellent Graduation Thesis of Harbin Institute of Technology 2019  
+* Merit student of Harbin Institute of Technology 2016, 2017, 2018  
 
 # Activity and Service
+* Teaching Assistant
+  COMP 6704: Advanced Topics in Optimization, Fall 2024 | 2023, PolyU  
+  COMP 5523: Computer Vision and Image Processing, Spring 2023 | 2022, PolyU  
+  COMP 2021: Data Structures, Fall 2023 | 2022, PolyU
+  C Language 2016， HIt,wh. 
 
+* Conference Reviewer  
+  EMNLP 2023.
+
+  
 # Internships
+* Tsinghua University, Nov 2018 – Jun 2019
