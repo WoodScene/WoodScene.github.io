@@ -49,7 +49,7 @@ Previously, during my master's studies, I conducted research on spatial-temporal
   COMP 6704: Advanced Topics in Optimization, Fall 2024 | 2023, PolyU   
   COMP 5523: Computer Vision and Image Processing, Spring 2023 | 2022, PolyU  
   COMP 2021: Data Structures, Fall 2023 | 2022, PolyU     
-  C Language 2016, HITwh.   
+  C Language Fall 2017 | 2016, HITwh.   
 * **Conference Reviewer**  
   EMNLP 2023.
 
