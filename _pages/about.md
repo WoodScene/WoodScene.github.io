@@ -30,7 +30,7 @@ Previously, during my master's studies, I did some research on spatial-temporal 
 
 * Towards Sustainable Compressive Population Health: A GAN-based Year-By-Year Imputation Method. [[PDF](https://dl.acm.org/doi/abs/10.1145/3571159)] [[Code](https://github.com/WoodScene/UAA-GAIN)]  
   **Yujie Feng**, Jiangtao Wang, Yasha Wang, Xu Chu.  
-  ACM Transactions on Computing for Healthcare.  
+  ACM Transactions on Computing for Healthcare (**ACM HEALTH**).  
 
 * Completing missing prevalence rates for multiple chronic diseases by jointly leveraging both intra-and inter-disease population health data correlations. [[PDF](https://dl.acm.org/doi/abs/10.1145/3442381.3449811)] [[Code](https://github.com/WoodScene/Compressive-Population-Health)]  
   **Yujie Feng**, Jiangtao Wang, Yasha Wang, Sumi Helal.  
