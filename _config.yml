@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yujie Feng / Homepage"
+title                    : "Yujie Feng"
 title_separator          : "-"
 name                     : &name "Yujie Feng"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yujie Feng"
+  name             : "Yujie Feng (冯钰捷)"
   avatar           : "Profile.png"
   bio              : "PHD candidate"
   location         : "HongKong"
