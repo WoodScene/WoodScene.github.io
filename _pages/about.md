@@ -17,9 +17,14 @@ I have broad interests in Natural Language Processing (NLP), especially in its i
 Previously, during my master's studies, I did some research on spatial-temporal data imputation using Generative Adversarial Networks (GAN).  
 
 # News
+* 2024.02 Severed as a reviewer at ACL 2024 and KDD 2024.
 * 2023.10 One paper is accepted by EMNLP 2023.
 
 # Publications
+* How Good Are LLMs at Out-of-Distribution Detection? [[PDF](https://arxiv.org/pdf/2308.10261.pdf)] [[Code](https://github.com/Awenbocc/LLM-OOD)]  
+  Bo Liu, Liming Zhan, Zexin Lu, **Yujie Feng**,  Lei Xue, Xiao-Ming Wu.
+  International Conference on Computational Linguistics (**COLING 2024**).
+  
 * Towards LLM-driven Dialogue State Tracking. [[PDF](https://arxiv.org/pdf/2310.14970.pdf)] [[Code](https://github.com/WoodScene/LDST)]  
   **Yujie Feng**, Zexin Lu, Bo Liu, Liming Zhan, Xiao-Ming Wu.  
   Conference on Empirical Methods in Natural Language Processing (**EMNLP 2023**).  
@@ -45,13 +50,14 @@ Previously, during my master's studies, I did some research on spatial-temporal 
 * Merit student of Harbin Institute of Technology 2016, 2017, 2018  
 
 # Activity and Service
-* **Teaching Assistant**    
+* **Teaching Assistant**
+  COMP 2421: Computer Organization, Spring 2024 | 2023, PolyU  
   COMP 6704: Advanced Topics in Optimization, Fall 2024 | 2023, PolyU   
   COMP 5523: Computer Vision and Image Processing, Spring 2023 | 2022, PolyU  
   COMP 2021: Data Structures, Fall 2023 | 2022, PolyU     
   C Language, Fall 2017 | 2016, HITwh  
 * **Conference Reviewer**  
-  EMNLP 2023.
+  ACL (2024), EMNLP (2023), KDD(2024).
 
 # Experiences
 * 2018/11 - 2019/06: Research intern at Tsinghua University. (Advisor: Dr. [Zhichao Li](https://scholar.google.com.hk/citations?user=AQ1zeEcAAAAJ&hl=zh-CN&oi=sra))
