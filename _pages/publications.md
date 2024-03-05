@@ -14,6 +14,9 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+* How Good Are LLMs at Out-of-Distribution Detection? [[PDF](https://arxiv.org/pdf/2308.10261.pdf)] [[Code](https://github.com/Awenbocc/LLM-OOD)]  
+  Bo Liu, Liming Zhan, Zexin Lu, **Yujie Feng**,  Lei Xue, Xiao-Ming Wu.
+  International Conference on Computational Linguistics (**COLING 2024**).
 
 * Towards LLM-driven Dialogue State Tracking. [[PDF](https://arxiv.org/pdf/2310.14970.pdf)] [[Code](https://github.com/WoodScene/LDST)]  
   **Yujie Feng**, Zexin Lu, Bo Liu, Liming Zhan, Xiao-Ming Wu.  
@@ -32,5 +35,4 @@ author_profile: true
   Proceedings of the Web Conference 2021 (**WWW 2021**).  
 
 # Preprint
-* How Good Are Large Language Models at Out-of-Distribution Detection?  
-  Bo Liu, Liming Zhan, Zexin Lu, **Yujie Feng**, Lei Xue, Xiao-Ming Wu.  2023.
+
