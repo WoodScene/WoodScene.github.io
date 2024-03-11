@@ -12,9 +12,10 @@ I am a second-year PhD student at Department of Computing, [The Hong Kong Polyte
 Prior to that, I obtained my Master degree from [Peking University (PKU)](https://www.pku.edu.cn/) under the supervision of [Prof. Yasha Wang](https://faculty.pku.edu.cn/wangyasha/zh_CN/more/10532/jsjjgd/index.htm) and Bachelor degree from [Harbin Institute of Technology, Weihai (HIT)](https://www.hitwh.edu.cn/).
 
 # Research Interests
-I have broad interests in Natural Language Processing (NLP), especially in its integration with Large Language Models. My primary research focuses on dialog systems, including tasks such as dialogue state tracking (DST) and user satisfaction estimation (USE).  
+I have broad interests in Natural Language Processing (NLP), including dialogue state tracking, user satisfaction estimation, and out-of-distribution detection.
+Currently, my focus is on **Large Language Models** and **task skill localization**. This involves detecting or localizing the importance distribution of parameters within Pre-trained Language Models, with the aim of achieving more efficient and effective multi-task learning or continual learning in the field of NLP.
 
-Previously, during my master's studies, I did some research on spatial-temporal data imputation using Generative Adversarial Networks (GAN).  
+Previously, during my master's studies, I did some research on spatial-temporal data imputation using Generative Adversarial Networks.  
 
 # News
 * 2024.02 Severed as a reviewer at ACL 2024 and KDD 2024.
