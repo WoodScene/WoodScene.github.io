@@ -19,6 +19,7 @@ Currently, my focus is on **Large Language Models** and **task skill localizatio
 Previously, during my master's studies, I did some research on spatial-temporal data imputation using Generative Adversarial Networks.  
 
 # News
+* 2024.05 Two papers are accepted to ACL 2024 (1 Main + 1 Findings).
 * 2024.02 Severed as a reviewer at ACL 2024 and KDD 2024.
 * 2023.10 One paper is accepted by EMNLP 2023.
 
