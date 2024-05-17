@@ -63,4 +63,4 @@ Previously, during my master's studies, I did some research on spatial-temporal 
   ACL (2024), EMNLP (2023), KDD(2024).
 
 # Experiences
-* 2018/11 - 2019/06: Research intern at Tsinghua University. (Advisor: Dr. [Zhichao Li](https://scholar.google.com.hk/citations?user=AQ1zeEcAAAAJ&hl=zh-CN&oi=sra))
+* 2018/11 - 2019/06: Research intern at Tsinghua University. (Advisor: Prof. [Zhichao Li](https://scholar.google.com.hk/citations?user=AQ1zeEcAAAAJ&hl=zh-CN&oi=sra))
