@@ -24,6 +24,14 @@ Previously, during my master's studies, I did some research on spatial-temporal 
 * 2023.10 One paper is accepted by EMNLP 2023.
 
 # Publications
+* TaSL: Continual Dialog State Tracking via Task Skill Localization and Consolidation.   
+  **Yujie Feng**, Xu Chu, Yongxin Xu, Guangyuan SHI, Bo LIU, Xiao-Ming Wu.   
+  The 62nd Annual Meeting of the Association for Computational Linguistics (**ACL 2024**).
+  
+* Continual Dialogue State Tracking via Reason-of-Select Distillation.   
+  **Yujie Feng**, Bo LIU, Xiaoyu DONG, ZEXIN LU, Li-Ming Zhan, Xiao-Ming Wu, Albert Y.S. Lam.   
+  Findings of the Association for Computational Linguistics (**ACL-Findings 2024**).
+  
 * How Good Are LLMs at Out-of-Distribution Detection? [[PDF](https://arxiv.org/pdf/2308.10261.pdf)] [[Code](https://github.com/Awenbocc/LLM-OOD)]  
   Bo Liu, Liming Zhan, Zexin Lu, **Yujie Feng**,  Lei Xue, Xiao-Ming Wu.  
   International Conference on Computational Linguistics (**COLING 2024**).
