@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student at Department of Computing, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), under the supervision of [Prof. Xiao-Ming Wu](https://www4.comp.polyu.edu.hk/~csxmwu/). Currently, I am visiting [the University of Illinois at Chicago (UIC)](https://www.uic.edu/), where I am honored to work with [Prof. Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en).
+I am a second-year PhD student at Department of Computing, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), under the supervision of [Prof. Xiao-Ming Wu](https://www4.comp.polyu.edu.hk/~csxmwu/). Currently, I am remotely visiting [the University of Illinois at Chicago (UIC)](https://www.uic.edu/), where I am honored to work with [Prof. Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en).
 
 Prior to that, I obtained my Master degree from [Peking University (PKU)](https://www.pku.edu.cn/) under the supervision of [Prof. Yasha Wang](https://faculty.pku.edu.cn/wangyasha/zh_CN/more/10532/jsjjgd/index.htm) and Bachelor degree from [Harbin Institute of Technology, Weihai (HIT)](https://www.hitwh.edu.cn/).
 
