@@ -17,7 +17,7 @@ I have broad interests in Natural Language Processing (NLP), including dialogue 
 
 Currently, my focus is on **Large Language Models** and **task skill localization**. This involves detecting or localizing the importance distribution of parameters within Pre-trained Language Models, with the aim of achieving more efficient and effective multi-task learning or continual learning in the field of NLP.
 
-Previously, during my master's studies, I did some research on spatial-temporal data imputation using Generative Adversarial Networks.
+Previously, during my master's studies, I did some research on spatial-temporal data imputation using Generative Adversarial Networks.   
 
 :smiley: *I am open to collaborations and discussions. Please feel free to reach out to me if you are interested in my research or any relevant topics.*
 
