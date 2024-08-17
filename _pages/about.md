@@ -19,7 +19,7 @@ Currently, my focus is on **Large Language Models** and **task skill localizatio
 
 Previously, during my master's studies, I did some research on spatial-temporal data imputation using Generative Adversarial Networks.
 
-:wink: *I am open to collaborations and discussions. Please feel free to reach out to me if you are interested in my research or any relevant topics.*
+:smiley: *I am open to collaborations and discussions. Please feel free to reach out to me if you are interested in my research or any relevant topics.*
 
 # News
 * 2024.05 Two papers are accepted to ACL 2024 (1 Main + 1 Findings).
