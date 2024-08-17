@@ -34,17 +34,18 @@ Previously, during my master's studies, I did some research on spatial-temporal 
 
 # Publications
 
-* TaSL: Continual Dialog State Tracking via Task Skill Localization and Consolidation.   
+* TaSL: Continual Dialog State Tracking via Task Skill Localization and Consolidation. [[PDF](https://aclanthology.org/2024.acl-long.69/)] [[Code](https://github.com/WoodScene/TaSL)]    
   **Yujie Feng**, Xu Chu, Yongxin Xu, Guangyuan SHI, Bo LIU, Xiao-Ming Wu.   
   The 62nd Annual Meeting of the Association for Computational Linguistics (**ACL 2024**).
   
-* Continual Dialogue State Tracking via Reason-of-Select Distillation.   
+* Continual Dialogue State Tracking via Reason-of-Select Distillation. [[PDF](https://aclanthology.org/2024.findings-acl.422/)] [[Code](https://github.com/WoodScene/RoS)]    
   **Yujie Feng**, Bo LIU, Xiaoyu DONG, ZEXIN LU, Li-Ming Zhan, Xiao-Ming Wu, Albert Y.S. Lam.   
   Findings of the Association for Computational Linguistics (**ACL-Findings 2024**).
-
+<!--
 * How Good Are LLMs at Out-of-Distribution Detection? [[PDF](https://arxiv.org/pdf/2308.10261.pdf)] [[Code](https://github.com/Awenbocc/LLM-OOD)]  
   Bo Liu, Liming Zhan, Zexin Lu, **Yujie Feng**,  Lei Xue, Xiao-Ming Wu.  
   International Conference on Computational Linguistics (**COLING 2024**).
+-->
 
 * Towards LLM-driven Dialogue State Tracking. [[PDF](https://arxiv.org/pdf/2310.14970.pdf)] [[Code](https://github.com/WoodScene/LDST)]  
   **Yujie Feng**, Zexin Lu, Bo Liu, Liming Zhan, Xiao-Ming Wu.  
