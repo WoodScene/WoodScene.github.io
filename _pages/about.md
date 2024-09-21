@@ -83,8 +83,8 @@ Previously, during my master's studies, I did some research on spatial-temporal 
   COMP 5523: Computer Vision and Image Processing, Spring 2023 | 2022, PolyU  
   COMP 2021: Data Structures, Fall 2023 | 2022, PolyU     
   C Language, Fall 2017 | 2016, HITwh  
-* **Conference Reviewer**  
-  ACL (2024), EMNLP (2023), KDD(2024).
+* **Reviewer** of ACL/EMNLP/NeurIPS/KDD
+
 
 # Experiences
 * 2018/11 - 2019/06: Research intern at Tsinghua University. (Advisor: Prof. [Zhichao Li](https://scholar.google.com.hk/citations?user=AQ1zeEcAAAAJ&hl=zh-CN&oi=sra))
