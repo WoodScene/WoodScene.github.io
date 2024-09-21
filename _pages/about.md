@@ -24,8 +24,7 @@ Previously, during my master's studies, I did some research on spatial-temporal 
 # :fire: News
 * 2024.09: :tada: <span style="color:red">1 paper</span> is accepted by EMNLP 2024!
 * 2024.08: :partying_face: Our continual learning framework, <u><span style="color:red">[TaSL](https://arxiv.org/abs/2408.05200)</span></u>, is released!
-* 2024.05: :tada: <span style="color:red">2 papers</span> are accepted to ACL 2024 (1 Main + 1 Findings)!
-<!--* 2024.02 Severed as a reviewer at ACL 2024 and KDD 2024.-->
+* 2024.05: :tada: <span style="color:red">2 papers</span> are accepted to ACL 2024 (1 Main + 1 Findings)! <!--* 2024.02 Severed as a reviewer at ACL 2024 and KDD 2024.-->
 * 2023.10: :tada: <span style="color:red">1 paper</span> is accepted by EMNLP 2023!
 
 # Preprint
@@ -36,7 +35,7 @@ Previously, during my master's studies, I did some research on spatial-temporal 
 
 # Publications
 * Zero-shot Cross-domain Dialogue State Tracking via Context-aware Auto-prompting and Instruction-following Contrastive Decoding.  
-  Xiaoyu DONG\*, **Yujie Feng\***, ZEXIN LU, Guangyuan SHI, Xiao-Ming Wu. (*: Equal Contribution)
+  Xiaoyu DONG\*, **Yujie Feng\***, ZEXIN LU, Guangyuan SHI, Xiao-Ming Wu. (*: Equal Contribution)  
   Conference on Empirical Methods in Natural Language Processing (**EMNLP 2024**).
   
 * TaSL: Continual Dialog State Tracking via Task Skill Localization and Consolidation. [[PDF](https://aclanthology.org/2024.acl-long.69/)] [[Code](https://github.com/WoodScene/TaSL)]    
