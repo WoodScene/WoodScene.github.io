@@ -23,7 +23,7 @@ Previously, during my master's studies, I did some research on spatial-temporal 
 
 # :fire: News
 * 2024.09: :tada: <span style="color:red">1 paper</span> is accepted by EMNLP 2024!
-* 2024.08: :partying_face: Our continual learning framework, <u><span style="color:red">[TaSL](https://arxiv.org/abs/2408.05200)</span></u>, is released!
+* 2024.08: :partying_face: Our continual learning framework <u><span style="color:red">[TaSL](https://arxiv.org/abs/2408.05200)</span></u> is released!
 * 2024.05: :tada: <span style="color:red">2 papers</span> are accepted to ACL 2024 (1 Main + 1 Findings)! <!--* 2024.02 Severed as a reviewer at ACL 2024 and KDD 2024.-->
 * 2023.10: :tada: <span style="color:red">1 paper</span> is accepted by EMNLP 2023!
 
