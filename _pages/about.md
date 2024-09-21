@@ -19,13 +19,13 @@ Currently, my focus is on **Large Language Models** and **task skill localizatio
 
 Previously, during my master's studies, I did some research on spatial-temporal data imputation using Generative Adversarial Networks.   
 
-:smiley: *I am open to collaborations and discussions. Please feel free to reach out to me if you are interested in my research or any relevant topics.*
+😊 *I am open to collaborations and discussions. Please feel free to reach out to me if you are interested in my research or any relevant topics.*
 
-# :fire: News
-* 2024.09: :tada: <span style="color:red">1 paper</span> is accepted by EMNLP 2024!
-* 2024.08: :partying_face: Our continual learning framework <u><span style="color:red">[TaSL](https://arxiv.org/abs/2408.05200)</span></u> is released!
-* 2024.05: :tada: <span style="color:red">2 papers</span> are accepted to ACL 2024 (1 Main + 1 Findings)! <!--* 2024.02 Severed as a reviewer at ACL 2024 and KDD 2024.-->
-* 2023.10: :tada: <span style="color:red">1 paper</span> is accepted by EMNLP 2023!
+# 🔥 News
+- *2024.09*: 🎉: <font color=red>1 paper</font> is accepted by EMNLP 2024!
+- *2024.08*: 🥳 Our continual learning framework [<font color=red>TaSL</font>](https://arxiv.org/abs/2408.05200) is released!
+- *2024.05*: 🎉 <font color=red>2 papers</font> are accepted to ACL 2024 (1 Main + 1 Findings)! <!--* 2024.02 Severed as a reviewer at ACL 2024 and KDD 2024.-->
+- *2023.10*: 🎉 <font color=red>1 paper</font> is accepted by EMNLP 2023!
 
 # Preprint
 * TaSL: Task Skill Localization and Consolidation for Language Model Continual Learning.    
