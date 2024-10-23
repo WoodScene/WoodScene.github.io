@@ -58,11 +58,11 @@ Previously, during my master's studies, I did some research on spatial-temporal 
 
 * Towards Sustainable Compressive Population Health: A GAN-based Year-By-Year Imputation Method. [[PDF](https://dl.acm.org/doi/abs/10.1145/3571159)] [[Code](https://github.com/WoodScene/UAA-GAIN)]  
   **Yujie Feng**, Jiangtao Wang, Yasha Wang, Xu Chu.  
-  ACM Transactions on Computing for Healthcare, 2023. (**JCR Q1, IF: 7.15**)
+  ACM Transactions on Computing for Healthcare, 2023. (**ACM HEALTH, IF: 7.15**)
 
 * Spatial-Attention and Demographic-Augmented Generative Adversarial Imputation Network for Population Health Data Reconstruction. [[PDF](https://ieeexplore.ieee.org/abstract/document/9976200)] [[Code](https://github.com/WoodScene/SDAGAIN)]  
   **Yujie Feng**, Jiangtao Wang, Yasha Wang, Xu Chu.  
-  IEEE Transactions on Big Data, 2022. (**JCR Q1, IF: 7.5**)  
+  IEEE Transactions on Big Data, 2022. (**IEEE TBD, IF: 7.5**)  
 
 * Completing missing prevalence rates for multiple chronic diseases by jointly leveraging both intra-and inter-disease population health data correlations. [[PDF](https://dl.acm.org/doi/abs/10.1145/3442381.3449811)] [[Code](https://github.com/WoodScene/Compressive-Population-Health)]  
   **Yujie Feng**, Jiangtao Wang, Yasha Wang, Sumi Helal.  
