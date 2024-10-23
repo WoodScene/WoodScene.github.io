@@ -43,7 +43,7 @@ Previously, during my master's studies, I did some research on spatial-temporal 
   The 62nd Annual Meeting of the Association for Computational Linguistics (**ACL 2024**).
   
 * Continual Dialogue State Tracking via Reason-of-Select Distillation. [[PDF](https://aclanthology.org/2024.findings-acl.422/)] [[Code](https://github.com/WoodScene/RoS)]    
-  **Yujie Feng**, Bo LIU, Xiaoyu DONG, ZEXIN LU, Li-Ming Zhan, Xiao-Ming Wu, Albert Y.S. Lam.   
+  **Yujie Feng**, Bo LIU, Xiaoyu DONG, ZEXIN LU, Li-Ming Zhan, Albert Y.S. Lam, Xiao-Ming Wu.   
   Findings of the Association for Computational Linguistics (**ACL-Findings 2024**).
 
 <!--
