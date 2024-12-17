@@ -96,7 +96,7 @@ Previously, during my master's studies, I worked on spatial-temporal data imputa
   COMP 5523: Computer Vision and Image Processing, Spring 2023 | 2022, PolyU  
   COMP 2021: Data Structures, Fall 2023 | 2022, PolyU     
   C Language, Fall 2017 | 2016, HITwh  
-* **Reviewer** of ACL/EMNLP/NeurIPS/KDD
+* **Reviewer** of ACL/EMNLP/NAACL/NeurIPS/KDD
 
 
 # Experiences
