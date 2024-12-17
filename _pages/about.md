@@ -23,6 +23,8 @@ I have broad interests in Natural Language Processing (NLP), including dialogue 
 Currently, my focus is on **Large Language Models** and **task skill localization**. This involves detecting or localizing the importance distribution of parameters within Pre-trained Language Models, with the aim of achieving more efficient and effective multi-task learning or continual learning in the field of NLP.
 
 Previously, during my master's studies, I did some research on spatial-temporal data imputation using Generative Adversarial Networks.   
+
+<font color=red>1 paper</font> is accepted by EMNLP 2024!
 -->
 
 Previously, during my master's studies, I worked on spatial-temporal data imputation and electronic health record analysis.
@@ -32,10 +34,10 @@ Previously, during my master's studies, I worked on spatial-temporal data imputa
 😊 *I am open to collaborations and discussions. Please feel free to reach out to me if you are interested in my research or any relevant topics.*
 
 # 🔥 News
-- *2024.09*: 🎉: <font color=red>1 paper</font> is accepted by EMNLP 2024!
+- *2024.09*: 🎉 One co-first-author paper is accepted to EMNLP 2024!
 - *2024.08*: 🥳 Our continual learning framework [<font color=red>TaSL</font>](https://arxiv.org/abs/2408.05200) is released!
-- *2024.05*: 🎉 <font color=red>2 papers</font> are accepted to ACL 2024 (1 Main + 1 Findings)! <!--* 2024.02 Severed as a reviewer at ACL 2024 and KDD 2024.-->
-- *2023.10*: 🎉 <font color=red>1 paper</font> is accepted by EMNLP 2023!
+- *2024.05*: 🎉 Two first-author papers are accepted to ACL 2024 (1 Main + 1 Findings)! <!--* 2024.02 Severed as a reviewer at ACL 2024 and KDD 2024.-->
+- *2023.10*: 🎉 One first-author paper is accepted by EMNLP 2023!
 
 # Preprint
 * TaSL: Task Skill Localization and Consolidation for Language Model Continual Learning.    
