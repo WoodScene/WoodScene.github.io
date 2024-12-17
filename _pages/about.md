@@ -8,16 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student at Department of Computing, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), under the supervision of [Prof. Xiao-Ming Wu](https://www4.comp.polyu.edu.hk/~csxmwu/). Currently, I am remotely visiting [the University of Illinois at Chicago (UIC)](https://www.uic.edu/), where I am honored to work with [Prof. Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en).
+Hey! I am a third-year PhD student at Department of Computing, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), under the supervision of [Prof. Xiao-Ming Wu](https://www4.comp.polyu.edu.hk/~csxmwu/). Currently, I am remotely visiting [the University of Illinois at Chicago (UIC)](https://www.uic.edu/), where I am honored to work with [Prof. Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en).
 
 Prior to that, I obtained my Master degree from [Peking University (PKU)](https://www.pku.edu.cn/) under the supervision of [Prof. Yasha Wang](https://faculty.pku.edu.cn/wangyasha/zh_CN/more/10532/jsjjgd/index.htm) and Bachelor degree from [Harbin Institute of Technology, Weihai (HIT)](https://www.hitwh.edu.cn/).
 
 # Research Interests
+My research interests broadly lie in **Natural Language Processing (NLP)** and **Large Language Models (LLMs)**.  
+
+My recent work focuses on efficiently and continually adapting LLMs to an ever-changing world characterized by emerging domains and new information. This includes topics such as continual learning, model editing, and retrieval-augmented generation. Additionally, I have explored LLM post-training and evaluation within the context of Conversational AI, covering tasks like dialogue state tracking and user satisfaction estimation.  
+
+<!--
 I have broad interests in Natural Language Processing (NLP), including dialogue state tracking, user satisfaction estimation, and out-of-distribution detection.
 
 Currently, my focus is on **Large Language Models** and **task skill localization**. This involves detecting or localizing the importance distribution of parameters within Pre-trained Language Models, with the aim of achieving more efficient and effective multi-task learning or continual learning in the field of NLP.
 
 Previously, during my master's studies, I did some research on spatial-temporal data imputation using Generative Adversarial Networks.   
+-->
+
+Previously, during my master's studies, I worked on spatial-temporal data imputation and electronic health record analysis.
+
+📢  <font color=red>**I am currently on the job market and expect to graduate in Fall 2025. I am open to opportunities in both academic and industrial positions. Please feel free to contact me if you have suitable openings!**</font>
 
 😊 *I am open to collaborations and discussions. Please feel free to reach out to me if you are interested in my research or any relevant topics.*
 
