@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yujie Feng (冯钰捷)"
   avatar           : "Profile.png"
-  bio              : "PHD candidate"
+  bio              : "Ph.D. Candidate"
   location         : "HongKong"
-  employer         :
+  employer         : "The Hong Kong Polytechnic University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=J3zR-48AAAAJ"
-  email            :
+  email            : "yujie.feng@connect.polyu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
