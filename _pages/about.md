@@ -45,6 +45,19 @@ Previously, during my master's studies, I worked on spatial-temporal data imputa
   **Yujie Feng**, Xu Chu, Yongxin Xu, Zexin Lu, Bo LIU, Philip S. Yu, Xiao-Ming Wu.   
   [[arXiv](https://arxiv.org/abs/2408.05200)] (Extension of the ACL 2024 paper)   
 
+* Parenting: Optimizing Knowledge Selection of Retrieval-Augmented Language Models with Parameter Decoupling and Tailored Tuning.    
+  Yongxin Xu, Ruizhe Zhang, Xinke Jiang, **Yujie Feng**, Yuzhen Xiao, Xinyu Ma, Runchuan Zhu, Xu Chu, Junfeng Zhao, Yasha Wang.   
+  [[arXiv](https://arxiv.org/abs/2410.10360)]   
+
+* Understanding Layer Significance in LLM Alignment.    
+  Guangyuan Shi, Zexin Lu, Xiaoyu Dong, Wenlong Zhang, Xuanyu Zhang, **Yujie Feng**, Xiao-Ming Wu.   
+  [[arXiv](https://arxiv.org/abs/2410.17875)]   
+
+* Diversity-grounded Channel Prototypical Learning for Out-of-Distribution Intent Detection.    
+  Bo Liu, Liming Zhan, **Yujie Feng**, Zexin Lu, Chengqiang Xie, Lei Xue, Albert Y.S. Lam, Xiao-Ming Wu.   
+  [[arXiv](https://arxiv.org/abs/2409.11114)]   
+
+
 
 # Publications
 * Zero-shot Cross-domain Dialogue State Tracking via Context-aware Auto-prompting and Instruction-following Contrastive Decoding.  
@@ -59,11 +72,9 @@ Previously, during my master's studies, I worked on spatial-temporal data imputa
   **Yujie Feng**, Bo LIU, Xiaoyu DONG, ZEXIN LU, Li-Ming Zhan, Albert Y.S. Lam, Xiao-Ming Wu.   
   Findings of the Association for Computational Linguistics (**ACL-Findings 2024**).
 
-<!--
 * How Good Are LLMs at Out-of-Distribution Detection? [[PDF](https://arxiv.org/pdf/2308.10261.pdf)] [[Code](https://github.com/Awenbocc/LLM-OOD)]  
   Bo Liu, Liming Zhan, Zexin Lu, **Yujie Feng**,  Lei Xue, Xiao-Ming Wu.  
-  International Conference on Computational Linguistics (**COLING 2024**).
--->
+  International Conference on Computational Linguistics (**COLING 2024**).   
 
 * Towards LLM-driven Dialogue State Tracking. [[PDF](https://arxiv.org/pdf/2310.14970.pdf)] [[Code](https://github.com/WoodScene/LDST)]  
   **Yujie Feng**, Zexin Lu, Bo Liu, Liming Zhan, Xiao-Ming Wu.  
@@ -96,7 +107,7 @@ Previously, during my master's studies, I worked on spatial-temporal data imputa
   COMP 5523: Computer Vision and Image Processing, Spring 2023 | 2022, PolyU  
   COMP 2021: Data Structures, Fall 2023 | 2022, PolyU     
   C Language, Fall 2017 | 2016, HITwh  
-* **Reviewer** of ACL/EMNLP/NAACL/NeurIPS/KDD
+* **Reviewer** of ACL/EMNLP/NAACL/COLING/NeurIPS/KDD
 
 
 # Experiences
