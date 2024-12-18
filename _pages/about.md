@@ -38,6 +38,7 @@ Previously, during my master's studies, I worked on spatial-temporal data imputa
 - *2024.09*: 🎉 One co-first-author paper is accepted to EMNLP 2024!
 - *2024.08*: 🥳 One paper about [continual learning](https://arxiv.org/abs/2408.05200) is online!
 - *2024.05*: 🎉 Two first-author papers are accepted to ACL 2024 (1 Main + 1 Findings)! <!--* 2024.02 Severed as a reviewer at ACL 2024 and KDD 2024.-->
+- *2024.02*: 🎉 One paper is accepted to COLING 2024!
 - *2023.10*: 🎉 One first-author paper is accepted by EMNLP 2023!
 
 # Preprint
