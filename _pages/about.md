@@ -34,21 +34,18 @@ Previously, during my master's studies, I worked on spatial-temporal data imputa
 😊 *I am open to collaborations and discussions. Please feel free to reach out to me if you are interested in my research or any relevant topics.*
 
 # 🔥 News
-- *2024.12*: 🎉 One paper is accepted to AAAI 2025!
-- *2024.09*: 🎉 One co-first-author paper is accepted to EMNLP 2024!
+- *2025.05*: 🎉 One first-author paper and one co-author paper have been accepted to ACL 2025!
+- *2024.12*: 🎉 One co-author paper has been accepted to AAAI 2025!
+- *2024.09*: 🎉 One co-first-author paper has been accepted to EMNLP 2024!
 - *2024.08*: 🥳 One paper about [continual learning](https://arxiv.org/abs/2408.05200) is online!
-- *2024.05*: 🎉 Two first-author papers are accepted to ACL 2024 (1 Main + 1 Findings)! <!--* 2024.02 Severed as a reviewer at ACL 2024 and KDD 2024.-->
-- *2024.02*: 🎉 One paper is accepted to COLING 2024!
-- *2023.10*: 🎉 One first-author paper is accepted by EMNLP 2023!
+- *2024.05*: 🎉 Two first-author papers have been accepted to ACL 2024 (1 Main + 1 Findings)!
+- *2024.02*: 🎉 One co-author paper has been accepted to COLING 2024!
+- *2023.10*: 🎉 One first-author paper has been accepted by EMNLP 2023!
 
 # Preprint
 * TaSL: Task Skill Localization and Consolidation for Language Model Continual Learning.    
   **Yujie Feng**, Xu Chu, Yongxin Xu, Zexin Lu, Bo LIU, Philip S. Yu, Xiao-Ming Wu.   
   [[arXiv](https://arxiv.org/abs/2408.05200)] (Extension of the ACL 2024 paper)   
-
-* Parenting: Optimizing Knowledge Selection of Retrieval-Augmented Language Models with Parameter Decoupling and Tailored Tuning.    
-  Yongxin Xu, Ruizhe Zhang, Xinke Jiang, **Yujie Feng**, Yuzhen Xiao, Xinyu Ma, Runchuan Zhu, Xu Chu, Junfeng Zhao, Yasha Wang.   
-  [[arXiv](https://arxiv.org/abs/2410.10360)]   
 
 * Understanding Layer Significance in LLM Alignment.    
   Guangyuan Shi, Zexin Lu, Xiaoyu Dong, Wenlong Zhang, Xuanyu Zhang, **Yujie Feng**, Xiao-Ming Wu.   
@@ -59,9 +56,16 @@ Previously, during my master's studies, I worked on spatial-temporal data imputa
   [[arXiv](https://arxiv.org/abs/2409.11114)]   
 
 
-
 # Publications
-* Zero-shot Cross-domain Dialogue State Tracking via Context-aware Auto-prompting and Instruction-following Contrastive Decoding.  
+* Recurrent knowledge identification and fusion for language model continual learning. [[PDF](https://arxiv.org/abs/2502.17510)]    
+  **Yujie Feng**, Xujia Wang, Zexin Lu, Shenghong Fu, Guangyuan Shi, Yongxin Xu, Yasha Wang, Philip S. Yu, Xu Chu, Xiao-Ming Wu.   
+  The 63nd Annual Meeting of the Association for Computational Linguistics (**ACL 2025**).
+
+* Parenting: Optimizing Knowledge Selection of Retrieval-Augmented Language Models with Parameter Decoupling and Tailored Tuning. [[PDF](https://arxiv.org/abs/2410.10360)]    
+  Yongxin Xu, Ruizhe Zhang, Xinke Jiang, **Yujie Feng**, Yuzhen Xiao, Xinyu Ma, Runchuan Zhu, Xu Chu, Junfeng Zhao, Yasha Wang.   
+  The 63nd Annual Meeting of the Association for Computational Linguistics (**ACL 2025**).
+  
+* Zero-shot Cross-domain Dialogue State Tracking via Context-aware Auto-prompting and Instruction-following Contrastive Decoding. [[PDF](https://aclanthology.org/2024.emnlp-main.485.pdf)]  
   Xiaoyu DONG\*, **Yujie Feng\***, ZEXIN LU, Guangyuan SHI, Xiao-Ming Wu. (*: Equal Contribution)  
   Conference on Empirical Methods in Natural Language Processing (**EMNLP 2024**).
   
