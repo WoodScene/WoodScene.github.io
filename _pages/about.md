@@ -57,7 +57,7 @@ Previously, during my master's studies, I worked on spatial-temporal data imputa
 
 
 # Publications
-* Recurrent Knowledge Identification and Fusion for Language Model Continual Learning. [[PDF](https://arxiv.org/abs/2502.17510)]    
+* Recurrent Knowledge Identification and Fusion for Language Model Continual Learning. [[PDF](https://arxiv.org/abs/2502.17510)] [[Code](https://github.com/WoodScene/Recurrent_KIF)]    
   **Yujie Feng**, Xujia Wang, Zexin Lu, Shenghong Fu, Guangyuan Shi, Yongxin Xu, Yasha Wang, Philip S. Yu, Xu Chu, Xiao-Ming Wu.   
   The 63nd Annual Meeting of the Association for Computational Linguistics (**ACL 2025**).
 
