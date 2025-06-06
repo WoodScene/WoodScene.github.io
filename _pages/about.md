@@ -43,18 +43,23 @@ Previously, during my master's studies, I worked on spatial-temporal data imputa
 - *2023.10*: 🎉 One first-author paper has been accepted by EMNLP 2023!
 
 # Preprint
+* GeoEdit: Geometric Knowledge Editing for Large Language Models.    
+  **Yujie Feng**, Liming Zhan, Zexin Lu, Yongxin Xu, Xu Chu, Yasha Wang, Jiannong Cao, Philip S. Yu, Xiao-Ming Wu.   
+  [[arXiv](https://arxiv.org/abs/2502.19953)] 
+  
 * TaSL: Task Skill Localization and Consolidation for Language Model Continual Learning.    
   **Yujie Feng**, Xu Chu, Yongxin Xu, Zexin Lu, Bo LIU, Philip S. Yu, Xiao-Ming Wu.   
   [[arXiv](https://arxiv.org/abs/2408.05200)] (Extension of the ACL 2024 paper)   
 
 * Understanding Layer Significance in LLM Alignment.    
   Guangyuan Shi, Zexin Lu, Xiaoyu Dong, Wenlong Zhang, Xuanyu Zhang, **Yujie Feng**, Xiao-Ming Wu.   
-  [[arXiv](https://arxiv.org/abs/2410.17875)]   
-
+  [[arXiv](https://arxiv.org/abs/2410.17875)]
+  
+<!--
 * Diversity-grounded Channel Prototypical Learning for Out-of-Distribution Intent Detection.    
   Bo Liu, Liming Zhan, **Yujie Feng**, Zexin Lu, Chengqiang Xie, Lei Xue, Albert Y.S. Lam, Xiao-Ming Wu.   
   [[arXiv](https://arxiv.org/abs/2409.11114)]   
-
+-->
 
 # Publications
 * Recurrent Knowledge Identification and Fusion for Language Model Continual Learning. [[PDF](https://arxiv.org/abs/2502.17510)] [[Code](https://github.com/WoodScene/Recurrent_KIF)]    
