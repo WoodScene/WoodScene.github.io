@@ -110,6 +110,12 @@ Previously, during my master's studies, I worked on spatial-temporal data imputa
 * Excellent Graduation Thesis of Harbin Institute of Technology 2019  
 * Merit student of Harbin Institute of Technology 2016, 2017, 2018  
 
+
+# Internships
+* 2025/04 - Present, Tencent (Qingyun Project), Shenzhen.
+* 2018/11 - 2019/06, Tsinghua University, Beijing.
+
+
 # Activity and Service
 * **Teaching Assistant**  
   COMP 2421: Computer Organization, Spring 2024 | 2023, PolyU  
@@ -117,10 +123,6 @@ Previously, during my master's studies, I worked on spatial-temporal data imputa
   COMP 5523: Computer Vision and Image Processing, Spring 2023 | 2022, PolyU  
   COMP 2021: Data Structures, Fall 2023 | 2022, PolyU     
   C Language, Fall 2017 | 2016, HITwh  
-* **Reviewer** of ACL/EMNLP/NAACL/COLING/NeurIPS/KDD
-
-
-# Experiences
-* 2018/11 - 2019/06: Research intern at Tsinghua University. (Advisor: Prof. [Zhichao Li](https://scholar.google.com.hk/citations?user=AQ1zeEcAAAAJ&hl=zh-CN&oi=sra))
+* **Reviewer** of ACL/EMNLP/NAACL/NeurIPS/KDD/TNNLS
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=500&t=n&d=5tx0EW8pZhiEy3KYuV1BAJe55P2ZABjJMLRjJDbC1io&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
