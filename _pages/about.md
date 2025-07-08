@@ -27,13 +27,14 @@ Previously, during my master's studies, I did some research on spatial-temporal 
 <font color=red>1 paper</font> is accepted by EMNLP 2024!
 -->
 
-Previously, during my master's studies, I worked on spatial-temporal data imputation and electronic health record analysis.
+<!--Previously, during my master's studies, I worked on spatial-temporal data imputation and electronic health record analysis.-->
 
 📢  **<font color=red>I am currently on the job market and expect to graduate in Fall 2025. I am open to opportunities in both academic and industrial positions. Please feel free to contact me if you have suitable openings!</font>**
 
-😊 *I am open to collaborations and discussions. Please feel free to reach out to me if you are interested in my research or any relevant topics.*
+<!--😊 *I am open to collaborations and discussions. Please feel free to reach out to me if you are interested in my research or any relevant topics.*-->
 
 # 🔥 News
+- *2025.07*: 🎉 One co-author paper has been accepted to COLM 2025!
 - *2025.05*: 🎉 One first-author paper and one co-author paper have been accepted to ACL 2025!
 - *2024.12*: 🎉 One co-author paper has been accepted to AAAI 2025!
 - *2024.09*: 🎉 One co-first-author paper has been accepted to EMNLP 2024!
@@ -50,10 +51,6 @@ Previously, during my master's studies, I worked on spatial-temporal data imputa
 * TaSL: Task Skill Localization and Consolidation for Language Model Continual Learning.    
   **Yujie Feng**, Xu Chu, Yongxin Xu, Zexin Lu, Bo LIU, Philip S. Yu, Xiao-Ming Wu.   
   [[arXiv](https://arxiv.org/abs/2408.05200)] (Extension of the ACL 2024 paper)   
-
-* Understanding Layer Significance in LLM Alignment.    
-  Guangyuan Shi, Zexin Lu, Xiaoyu Dong, Wenlong Zhang, Xuanyu Zhang, **Yujie Feng**, Xiao-Ming Wu.   
-  [[arXiv](https://arxiv.org/abs/2410.17875)]
   
 <!--
 * Diversity-grounded Channel Prototypical Learning for Out-of-Distribution Intent Detection.    
@@ -61,18 +58,10 @@ Previously, during my master's studies, I worked on spatial-temporal data imputa
   [[arXiv](https://arxiv.org/abs/2409.11114)]   
 -->
 
-# Publications
+# Selected Publications
 * Recurrent Knowledge Identification and Fusion for Language Model Continual Learning. [[PDF](https://arxiv.org/abs/2502.17510)] [[Code](https://github.com/WoodScene/Recurrent_KIF)]    
   **Yujie Feng**, Xujia Wang, Zexin Lu, Shenghong Fu, Guangyuan Shi, Yongxin Xu, Yasha Wang, Philip S. Yu, Xu Chu, Xiao-Ming Wu.   
   The 63nd Annual Meeting of the Association for Computational Linguistics (**ACL 2025**).
-
-* Parenting: Optimizing Knowledge Selection of Retrieval-Augmented Language Models with Parameter Decoupling and Tailored Tuning. [[PDF](https://arxiv.org/abs/2410.10360)]    
-  Yongxin Xu, Ruizhe Zhang, Xinke Jiang, **Yujie Feng**, Yuzhen Xiao, Xinyu Ma, Runchuan Zhu, Xu Chu, Junfeng Zhao, Yasha Wang.   
-  The 63nd Annual Meeting of the Association for Computational Linguistics (**ACL 2025**).
-  
-* Zero-shot Cross-domain Dialogue State Tracking via Context-aware Auto-prompting and Instruction-following Contrastive Decoding. [[PDF](https://aclanthology.org/2024.emnlp-main.485.pdf)]  
-  Xiaoyu DONG\*, **Yujie Feng\***, ZEXIN LU, Guangyuan SHI, Xiao-Ming Wu. (*: Equal Contribution)  
-  Conference on Empirical Methods in Natural Language Processing (**EMNLP 2024**).
   
 * TaSL: Continual Dialog State Tracking via Task Skill Localization and Consolidation. [[PDF](https://aclanthology.org/2024.acl-long.69/)] [[Code](https://github.com/WoodScene/TaSL)]    
   **Yujie Feng**, Xu Chu, Yongxin Xu, Guangyuan SHI, Bo LIU, Xiao-Ming Wu.   
@@ -81,10 +70,6 @@ Previously, during my master's studies, I worked on spatial-temporal data imputa
 * Continual Dialogue State Tracking via Reason-of-Select Distillation. [[PDF](https://aclanthology.org/2024.findings-acl.422/)] [[Code](https://github.com/WoodScene/RoS)]    
   **Yujie Feng**, Bo LIU, Xiaoyu DONG, ZEXIN LU, Li-Ming Zhan, Albert Y.S. Lam, Xiao-Ming Wu.   
   Findings of the Association for Computational Linguistics (**ACL-Findings 2024**).
-
-* How Good Are LLMs at Out-of-Distribution Detection? [[PDF](https://arxiv.org/pdf/2308.10261.pdf)] [[Code](https://github.com/Awenbocc/LLM-OOD)]  
-  Bo Liu, Liming Zhan, Zexin Lu, **Yujie Feng**,  Lei Xue, Xiao-Ming Wu.  
-  International Conference on Computational Linguistics (**COLING 2024**).   
 
 * Towards LLM-driven Dialogue State Tracking. [[PDF](https://arxiv.org/pdf/2310.14970.pdf)] [[Code](https://github.com/WoodScene/LDST)]  
   **Yujie Feng**, Zexin Lu, Bo Liu, Liming Zhan, Xiao-Ming Wu.  
