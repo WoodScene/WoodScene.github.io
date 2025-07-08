@@ -14,6 +14,23 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+* Understanding Layer Significance in LLM Alignment. [[PDF](https://arxiv.org/abs/2410.17875)]    
+  Guangyuan Shi, Zexin Lu, Xiaoyu Dong, Wenlong Zhang, Xuanyu Zhang, **Yujie Feng**, Xiao-Ming Wu.   
+  **COLM 2025**
+
+* Recurrent Knowledge Identification and Fusion for Language Model Continual Learning. [[PDF](https://arxiv.org/abs/2502.17510)] [[Code](https://github.com/WoodScene/Recurrent_KIF)]    
+  **Yujie Feng**, Xujia Wang, Zexin Lu, Shenghong Fu, Guangyuan Shi, Yongxin Xu, Yasha Wang, Philip S. Yu, Xu Chu, Xiao-Ming Wu.   
+  The 63nd Annual Meeting of the Association for Computational Linguistics (**ACL 2025**).
+
+* Parenting: Optimizing Knowledge Selection of Retrieval-Augmented Language Models with Parameter Decoupling and Tailored Tuning. [[PDF](https://arxiv.org/abs/2410.10360)]    
+  Yongxin Xu, Ruizhe Zhang, Xinke Jiang, **Yujie Feng**, Yuzhen Xiao, Xinyu Ma, Runchuan Zhu, Xu Chu, Junfeng Zhao, Yasha Wang.   
+  The 63nd Annual Meeting of the Association for Computational Linguistics (**ACL 2025**).
+
+* Zero-shot Cross-domain Dialogue State Tracking via Context-aware Auto-prompting and Instruction-following Contrastive Decoding. [[PDF](https://aclanthology.org/2024.emnlp-main.485.pdf)]  
+  Xiaoyu DONG\*, **Yujie Feng\***, ZEXIN LU, Guangyuan SHI, Xiao-Ming Wu. (*: Equal Contribution)  
+  Conference on Empirical Methods in Natural Language Processing (**EMNLP 2024**).
+
 * TaSL: Continual Dialog State Tracking via Task Skill Localization and Consolidation. [[PDF](https://aclanthology.org/2024.acl-long.69/)] [[Code](https://github.com/WoodScene/TaSL)]    
   **Yujie Feng**, Xu Chu, Yongxin Xu, Guangyuan SHI, Bo LIU, Xiao-Ming Wu.   
   The 62nd Annual Meeting of the Association for Computational Linguistics (**ACL 2024**).
