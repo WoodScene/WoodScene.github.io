@@ -29,7 +29,7 @@ Previously, during my master's studies, I did some research on spatial-temporal 
 
 <!--Previously, during my master's studies, I worked on spatial-temporal data imputation and electronic health record analysis.-->
 
-📢  **<font color=red>I am currently on the job market and expect to graduate in Fall 2025. I am open to opportunities in both academic and industrial positions. Please feel free to contact me if you have suitable openings!</font>**
+📢  **<font color=red>I am currently on the job market and expect to graduate in Summer 2026. I am open to opportunities in both academic and industrial positions. Please feel free to contact me if you have suitable openings!</font>**
 
 <!--😊 *I am open to collaborations and discussions. Please feel free to reach out to me if you are interested in my research or any relevant topics.*-->
 
