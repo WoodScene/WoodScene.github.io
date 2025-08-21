@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey! I am a third-year PhD student at Department of Computing, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), under the supervision of [Prof. Xiao-Ming Wu](https://www4.comp.polyu.edu.hk/~csxmwu/). Currently, I am remotely visiting [the University of Illinois at Chicago (UIC)](https://www.uic.edu/), where I am honored to work with [Prof. Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en).
+I am a fourth-year Ph.D. candidate at Department of Computing, [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), under the supervision of [Prof. Xiao-Ming Wu](https://www4.comp.polyu.edu.hk/~csxmwu/). Currently, I am remotely visiting [the University of Illinois at Chicago (UIC)](https://www.uic.edu/), where I am honored to work with [Prof. Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en).
 
 Prior to that, I obtained my Master degree from [Peking University (PKU)](https://www.pku.edu.cn/) under the supervision of [Prof. Yasha Wang](https://faculty.pku.edu.cn/wangyasha/zh_CN/more/10532/jsjjgd/index.htm) and Bachelor degree from [Harbin Institute of Technology, Weihai (HIT)](https://www.hitwh.edu.cn/).
 
@@ -34,6 +34,7 @@ Previously, during my master's studies, I did some research on spatial-temporal 
 <!--😊 *I am open to collaborations and discussions. Please feel free to reach out to me if you are interested in my research or any relevant topics.*-->
 
 # 🔥 News
+- *2025.08*: 🎉 Two first-author papers have been accepted to EMNLP 2025!
 - *2025.07*: 🎉 One co-author paper has been accepted to COLM 2025!
 - *2025.05*: 🎉 One first-author paper and one co-author paper have been accepted to ACL 2025!
 - *2024.12*: 🎉 One co-author paper has been accepted to AAAI 2025!
@@ -43,11 +44,7 @@ Previously, during my master's studies, I did some research on spatial-temporal 
 - *2024.02*: 🎉 One co-author paper has been accepted to COLING 2024!
 - *2023.10*: 🎉 One first-author paper has been accepted by EMNLP 2023!
 
-# Preprint
-* GeoEdit: Geometric Knowledge Editing for Large Language Models.    
-  **Yujie Feng**, Liming Zhan, Zexin Lu, Yongxin Xu, Xu Chu, Yasha Wang, Jiannong Cao, Philip S. Yu, Xiao-Ming Wu.   
-  [[arXiv](https://arxiv.org/abs/2502.19953)] 
-  
+# Preprint  
 * TaSL: Task Skill Localization and Consolidation for Language Model Continual Learning.    
   **Yujie Feng**, Xu Chu, Yongxin Xu, Zexin Lu, Bo LIU, Philip S. Yu, Xiao-Ming Wu.   
   [[arXiv](https://arxiv.org/abs/2408.05200)] (Extension of the ACL 2024 paper)   
@@ -59,6 +56,14 @@ Previously, during my master's studies, I did some research on spatial-temporal 
 -->
 
 # Selected Publications
+* AIMMerging: Leveraging Training Trajectories for Adaptive Iterative Model Merging in Language Model Continual Learning.    
+  **Yujie Feng**, Jian Li, Xiaoyu Dong, Pengfei Xu, Xiaohui Zhou, Yujia Zhang, Zexin Lu, Yasha Wang, Alan Zhao, Xu Chu, Xiao-Ming Wu.   
+  Conference on Empirical Methods in Natural Language Processing (**EMNLP 2025**).   
+
+* GeoEdit: Geometric Knowledge Editing for Large Language Models.    
+  **Yujie Feng**, Liming Zhan, Zexin Lu, Yongxin Xu, Xu Chu, Yasha Wang, Jiannong Cao, Philip S. Yu, Xiao-Ming Wu.   
+  Conference on Empirical Methods in Natural Language Processing (**EMNLP 2025**).   
+  
 * Recurrent Knowledge Identification and Fusion for Language Model Continual Learning. [[PDF](https://arxiv.org/abs/2502.17510)] [[Code](https://github.com/WoodScene/Recurrent_KIF)]    
   **Yujie Feng**, Xujia Wang, Zexin Lu, Shenghong Fu, Guangyuan Shi, Yongxin Xu, Yasha Wang, Philip S. Yu, Xu Chu, Xiao-Ming Wu.   
   The 63nd Annual Meeting of the Association for Computational Linguistics (**ACL 2025**).
