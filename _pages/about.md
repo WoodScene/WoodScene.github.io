@@ -34,6 +34,18 @@ Previously, during my master's studies, I did some research on spatial-temporal 
 <!--😊 *I am open to collaborations and discussions. Please feel free to reach out to me if you are interested in my research or any relevant topics.*-->
 
 # 🔥 News
+- *2026.01*: 🎉 Two papers have been accepted to ICLR 2026!
+- *2025.08*: 🎉 Two papers have been accepted to EMNLP 2025!
+- *2025.07*: 🎉 One paper has been accepted to COLM 2025!
+- *2025.05*: 🎉 Two papers have been accepted to ACL 2025!
+- *2024.12*: 🎉 One paper has been accepted to AAAI 2025!
+- *2024.09*: 🎉 One paper has been accepted to EMNLP 2024!
+- *2024.08*: 🥳 One paper about [continual learning](https://arxiv.org/abs/2408.05200) is online!
+- *2024.05*: 🎉 Two papers have been accepted to ACL 2024 (1 Main + 1 Findings)!
+- *2024.02*: 🎉 One paper has been accepted to COLING 2024!
+- *2023.10*: 🎉 One paper has been accepted by EMNLP 2023!
+
+<!--
 - *2025.08*: 🎉 Two first-author papers have been accepted to EMNLP 2025!
 - *2025.07*: 🎉 One co-author paper has been accepted to COLM 2025!
 - *2025.05*: 🎉 One first-author paper and one co-author paper have been accepted to ACL 2025!
@@ -43,6 +55,7 @@ Previously, during my master's studies, I did some research on spatial-temporal 
 - *2024.05*: 🎉 Two first-author papers have been accepted to ACL 2024 (1 Main + 1 Findings)!
 - *2024.02*: 🎉 One co-author paper has been accepted to COLING 2024!
 - *2023.10*: 🎉 One first-author paper has been accepted by EMNLP 2023!
+-->
 
 # Preprint  
 * TaSL: Task Skill Localization and Consolidation for Language Model Continual Learning.    
@@ -102,7 +115,7 @@ Previously, during my master's studies, I did some research on spatial-temporal 
 
 
 # Internships
-* 2025/04 - Present, Tencent (Qingyun Project), Shenzhen.
+* 2025/04 - 2025/10, Tencent (Qingyun Project), Shenzhen.
 * 2018/11 - 2019/06, Tsinghua University, Beijing.
 
 
@@ -113,7 +126,7 @@ Previously, during my master's studies, I did some research on spatial-temporal 
   COMP 5523: Computer Vision and Image Processing, Spring 2023 | 2022, PolyU  
   COMP 2021: Data Structures, Fall 2023 | 2022, PolyU     
   C Language, Fall 2017 | 2016, HITwh  
-* **Reviewer** of ACL/EMNLP/NAACL/NeurIPS/KDD/TNNLS
+* **Reviewer** of ACL/EMNLP/NAACL/ICLR/NeurIPS/ICML/KDD/TNNLS
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=500&t=n&d=5tx0EW8pZhiEy3KYuV1BAJe55P2ZABjJMLRjJDbC1io&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
