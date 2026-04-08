@@ -36,6 +36,7 @@ Previously, during my master's studies, I did some research on spatial-temporal 
 <!--😊 *I am open to collaborations and discussions. Please feel free to reach out to me if you are interested in my research or any relevant topics.*-->
 
 # 🔥 News
+- *2026.04*: 🎉 One paper has been accepted to ACL 2026!
 - *2026.01*: 🎉 Two papers have been accepted to ICLR 2026!
 - *2025.08*: 🎉 Two papers have been accepted to EMNLP 2025!
 - *2025.07*: 🎉 One paper has been accepted to COLM 2025!
