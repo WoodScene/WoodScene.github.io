@@ -12,10 +12,13 @@ I am a fourth-year Ph.D. candidate at [Department of Data Science and Artificial
 
 Prior to that, I obtained my Master degree from [Peking University (PKU)](https://www.pku.edu.cn/) under the supervision of [Prof. Yasha Wang](https://faculty.pku.edu.cn/wangyasha/zh_CN/more/10532/jsjjgd/index.htm) and Bachelor degree from [Harbin Institute of Technology, Weihai (HIT)](https://www.hitwh.edu.cn/).
 
-# Research Interests
-My research interests broadly lie in Natural Language Processing (NLP) and Large Language Models (LLMs).  
 
-My recent work focuses on efficiently and continually adapting LLMs to an ever-changing world characterized by emerging domains and new information. This includes topics such as continual learning and model editing. Additionally, I have explored LLM post-training and evaluation within the context of Conversational AI, covering tasks like dialogue state tracking and user satisfaction estimation.  
+# Research Interests
+My research focuses on Natural Language Processing (NLP) and Large Language Models (LLMs), with an emphasis on continual adaptation and capability evolution.
+
+My recent work studies how to efficiently adapt and evolve LLMs in dynamic environments, where new tasks, domains, and knowledge continuously emerge. This includes topics such as continual learning, model editing, and memory-based adaptation. 
+
+More recently, I am interested in advancing the general capabilities of LLM-based agents, including reasoning, grounding, and long-horizon decision-making, as well as their continual improvement over time.
 
 <!--
 I have broad interests in Natural Language Processing (NLP), including dialogue state tracking, user satisfaction estimation, and out-of-distribution detection.
