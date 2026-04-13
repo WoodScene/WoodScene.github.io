@@ -106,6 +106,8 @@ Previously, during my master's studies, I did some research on spatial-temporal 
 
 
 # Honors and Awards
+* PolyU Research Student Attachment Program (RSAP) 2024
+* PolyU Research Postgraduate Scholarship 2022
 * Excellent Graduation Thesis of Peking University 2022  
 * Merit student of Peking University 2020  
 * Outstanding Graduates of Shandong Province 2019   
