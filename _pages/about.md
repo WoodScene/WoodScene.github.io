@@ -72,11 +72,19 @@ Previously, during my master's studies, I did some research on spatial-temporal 
 -->
 
 # Selected Publications
-* AIMMerging: Leveraging Training Trajectories for Adaptive Iterative Model Merging in Language Model Continual Learning.    
+* FOREVER: Forgetting Curve-Inspired Memory Replay for Language Model Continual Learning.   
+  **Yujie Feng**, Hao Wang, Jian Li, Xu Chu, Zhaolu Kang, Yiran Liu, Yasha Wang, Philip S. Yu, Xiao-Ming Wu.    
+  The 64th Annual Meeting of the Association for Computational Linguistics (**ACL 2026**).
+
+* Micro-Macro Retrieval: Reducing Long-Form Hallucination in Large Language Models.
+  **Yujie Feng**, Jian Li, Zhihan Zhou, Pengfei Xu, Yujia Zhang, Xiaoyu Li, Xiaohui Zhou, Alan Zhao, Xi Chen, Xiao-Ming Wu.
+  The Fourteenth International Conference on Learning Representations (**ICLR 2026**).
+
+* AIMMerging: Leveraging Training Trajectories for Adaptive Iterative Model Merging in Language Model Continual Learning. [[PDF](https://aclanthology.org/2025.emnlp-main.678.pdf)] [[Code](https://github.com/WoodScene/AimMerging)]        
   **Yujie Feng**, Jian Li, Xiaoyu Dong, Pengfei Xu, Xiaohui Zhou, Yujia Zhang, Zexin Lu, Yasha Wang, Alan Zhao, Xu Chu, Xiao-Ming Wu.   
   Conference on Empirical Methods in Natural Language Processing (**EMNLP 2025**).   
 
-* GeoEdit: Geometric Knowledge Editing for Large Language Models.    
+* GeoEdit: Geometric Knowledge Editing for Large Language Models. [[PDF](https://arxiv.org/pdf/2502.19953)] [[Code](https://github.com/WoodScene/Recurrent_KIF)]    
   **Yujie Feng**, Liming Zhan, Zexin Lu, Yongxin Xu, Xu Chu, Yasha Wang, Jiannong Cao, Philip S. Yu, Xiao-Ming Wu.   
   Conference on Empirical Methods in Natural Language Processing (**EMNLP 2025**).   
   
@@ -87,22 +95,10 @@ Previously, during my master's studies, I did some research on spatial-temporal 
 * TaSL: Continual Dialog State Tracking via Task Skill Localization and Consolidation. [[PDF](https://aclanthology.org/2024.acl-long.69/)] [[Code](https://github.com/WoodScene/TaSL)]    
   **Yujie Feng**, Xu Chu, Yongxin Xu, Guangyuan SHI, Bo LIU, Xiao-Ming Wu.   
   The 62nd Annual Meeting of the Association for Computational Linguistics (**ACL 2024**).
-  
-* Continual Dialogue State Tracking via Reason-of-Select Distillation. [[PDF](https://aclanthology.org/2024.findings-acl.422/)] [[Code](https://github.com/WoodScene/RoS)]    
-  **Yujie Feng**, Bo LIU, Xiaoyu DONG, ZEXIN LU, Li-Ming Zhan, Albert Y.S. Lam, Xiao-Ming Wu.   
-  Findings of the Association for Computational Linguistics (**ACL-Findings 2024**).
 
 * Towards LLM-driven Dialogue State Tracking. [[PDF](https://arxiv.org/pdf/2310.14970.pdf)] [[Code](https://github.com/WoodScene/LDST)]  
   **Yujie Feng**, Zexin Lu, Bo Liu, Liming Zhan, Xiao-Ming Wu.  
   Conference on Empirical Methods in Natural Language Processing (**EMNLP 2023**).  
-
-* Towards Sustainable Compressive Population Health: A GAN-based Year-By-Year Imputation Method. [[PDF](https://dl.acm.org/doi/abs/10.1145/3571159)] [[Code](https://github.com/WoodScene/UAA-GAIN)]  
-  **Yujie Feng**, Jiangtao Wang, Yasha Wang, Xu Chu.  
-  ACM Transactions on Computing for Healthcare, 2023. (**ACM HEALTH, IF: 7.15**)
-
-* Spatial-Attention and Demographic-Augmented Generative Adversarial Imputation Network for Population Health Data Reconstruction. [[PDF](https://ieeexplore.ieee.org/abstract/document/9976200)] [[Code](https://github.com/WoodScene/SDAGAIN)]  
-  **Yujie Feng**, Jiangtao Wang, Yasha Wang, Xu Chu.  
-  IEEE Transactions on Big Data, 2022. (**IEEE TBD, IF: 7.5**)  
 
 * Completing missing prevalence rates for multiple chronic diseases by jointly leveraging both intra-and inter-disease population health data correlations. [[PDF](https://dl.acm.org/doi/abs/10.1145/3442381.3449811)] [[Code](https://github.com/WoodScene/Compressive-Population-Health)]  
   **Yujie Feng**, Jiangtao Wang, Yasha Wang, Sumi Helal.  
