@@ -15,7 +15,7 @@ Prior to that, I obtained my Master degree from [Peking University (PKU)](https:
 # Research Interests
 My research interests broadly lie in Natural Language Processing (NLP) and Large Language Models (LLMs).  
 
-My recent work focuses on efficiently and continually adapting LLMs to an ever-changing world characterized by emerging domains and new information. This includes topics such as continual learning, model editing, and retrieval-augmented generation. Additionally, I have explored LLM post-training and evaluation within the context of Conversational AI, covering tasks like dialogue state tracking and user satisfaction estimation.  
+My recent work focuses on efficiently and continually adapting LLMs to an ever-changing world characterized by emerging domains and new information. This includes topics such as continual learning and model editing. Additionally, I have explored LLM post-training and evaluation within the context of Conversational AI, covering tasks like dialogue state tracking and user satisfaction estimation.  
 
 <!--
 I have broad interests in Natural Language Processing (NLP), including dialogue state tracking, user satisfaction estimation, and out-of-distribution detection.
