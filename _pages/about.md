@@ -80,7 +80,7 @@ Previously, during my master's studies, I did some research on spatial-temporal 
   The 64th Annual Meeting of the Association for Computational Linguistics (**ACL 2026**).
 
 * Micro-Macro Retrieval: Reducing Long-Form Hallucination in Large Language Models. [[PDF](https://openreview.net/forum?id=ABdgMoJhlO)] [[Code](https://github.com/WoodScene/AimMerging)]        
-  **Yujie Feng**, Jian Li, Zhihan Zhou, Pengfei Xu, Yujia Zhang, Xiaoyu Li, Xiaohui Zhou, Alan Zhao, Xi Chen, Xiao-Ming Wu.
+  **Yujie Feng**, Jian Li, Zhihan Zhou, Pengfei Xu, Yujia Zhang, Xiaoyu Li, Xiaohui Zhou, Alan Zhao, Xi Chen, Xiao-Ming Wu.    
   The Fourteenth International Conference on Learning Representations (**ICLR 2026**).
 
 * AIMMerging: Leveraging Training Trajectories for Adaptive Iterative Model Merging in Language Model Continual Learning. [[PDF](https://aclanthology.org/2025.emnlp-main.678.pdf)] [[Code](https://github.com/WoodScene/AimMerging)]        
