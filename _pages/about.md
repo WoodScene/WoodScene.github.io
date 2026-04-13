@@ -72,11 +72,11 @@ Previously, during my master's studies, I did some research on spatial-temporal 
 -->
 
 # Selected Publications
-* FOREVER: Forgetting Curve-Inspired Memory Replay for Language Model Continual Learning.   
+* FOREVER: Forgetting Curve-Inspired Memory Replay for Language Model Continual Learning. [[PDF](https://arxiv.org/abs/2601.03938)] [[Code](https://github.com/WoodScene/AimMerging)]        
   **Yujie Feng**, Hao Wang, Jian Li, Xu Chu, Zhaolu Kang, Yiran Liu, Yasha Wang, Philip S. Yu, Xiao-Ming Wu.    
   The 64th Annual Meeting of the Association for Computational Linguistics (**ACL 2026**).
 
-* Micro-Macro Retrieval: Reducing Long-Form Hallucination in Large Language Models.
+* Micro-Macro Retrieval: Reducing Long-Form Hallucination in Large Language Models. [[PDF](https://openreview.net/forum?id=ABdgMoJhlO)] [[Code](https://github.com/WoodScene/AimMerging)]        
   **Yujie Feng**, Jian Li, Zhihan Zhou, Pengfei Xu, Yujia Zhang, Xiaoyu Li, Xiaohui Zhou, Alan Zhao, Xi Chen, Xiao-Ming Wu.
   The Fourteenth International Conference on Learning Representations (**ICLR 2026**).
 
