@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. candidate at [Department of Data Science and Artificial Intelligence](https://www.polyu.edu.hk/en/dsai/), [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), under the supervision of [Prof. Xiao-Ming Wu](https://www4.comp.polyu.edu.hk/~csxmwu/). Currently, I am remotely visiting [the University of Illinois at Chicago (UIC)](https://www.uic.edu/), where I am honored to work with [Prof. Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en).
+I am currently a Researcher at Token Foundry (formerly Tongyi Lab), Alibaba Token Hub, Alibaba Group. I obtained my Ph.D. from the [Department of Data Science and Artificial Intelligence](https://www.polyu.edu.hk/en/dsai/), [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), under the supervision of [Prof. Xiao-Ming Wu](https://www4.comp.polyu.edu.hk/~csxmwu/), during which I was remotely visiting [the University of Illinois at Chicago (UIC)](https://www.uic.edu/) and honored to work with [Prof. Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en).
 
 Prior to that, I obtained my Master degree from [Peking University (PKU)](https://www.pku.edu.cn/) under the supervision of [Prof. Yasha Wang](https://faculty.pku.edu.cn/wangyasha/zh_CN/more/10532/jsjjgd/index.htm) and Bachelor degree from [Harbin Institute of Technology, Weihai (HIT)](https://www.hitwh.edu.cn/).
 
@@ -16,9 +16,10 @@ Prior to that, I obtained my Master degree from [Peking University (PKU)](https:
 # Research Interests
 My research focuses on Natural Language Processing (NLP) and Large Language Models (LLMs), with an emphasis on continual adaptation and capability evolution.
 
-My recent work studies how to efficiently adapt and evolve LLMs in dynamic environments, where new tasks, domains, and knowledge continuously emerge. This includes topics such as continual learning, model editing, and memory-based adaptation. 
+My Ph.D. work studied how to efficiently adapt and evolve LLMs in dynamic environments, where new tasks, domains, and knowledge continuously emerge. This includes topics such as continual learning, model editing, and memory-based adaptation.
 
-More recently, I am interested in advancing the general capabilities of LLM-based agents, including reasoning, grounding, and long-horizon decision-making, as well as their continual improvement over time.
+More recently, I am interested in the self-evolution of LLM-based agents, including recursive self-improvement: how agents autonomously improve from their own experience and interaction, as well as the co-evolution between an agent's harness (e.g., its skill bank) and its policy model.
+
 
 <!--
 I have broad interests in Natural Language Processing (NLP), including dialogue state tracking, user satisfaction estimation, and out-of-distribution detection.
@@ -38,7 +39,12 @@ Previously, during my master's studies, I did some research on spatial-temporal 
 
 <!--😊 *I am open to collaborations and discussions. Please feel free to reach out to me if you are interested in my research or any relevant topics.*-->
 
+📢  **<font color=red>We are recruiting research interns on agent self-evolution and memory-based adaptation for LLM-based agents. Please feel free to reach out if you are interested!</font>**
+
+
 # 🔥 News
+- *2026.10*: 🎉 One paper has been accepted to IEEE Transactions on Mobile Computing!
+- *2026.08*: 🎉 One paper has been accepted to EMNLP 2026 Findings!
 - *2026.04*: 🎉 One paper has been accepted to ACL 2026!
 - *2026.01*: 🎉 Two papers have been accepted to ICLR 2026!
 - *2025.08*: 🎉 Two papers have been accepted to EMNLP 2025!
