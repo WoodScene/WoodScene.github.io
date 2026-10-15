@@ -45,6 +45,7 @@ Previously, during my master's studies, I did some research on spatial-temporal 
 # 🔥 News
 - *2026.10*: 🎉 One paper has been accepted to IEEE Transactions on Mobile Computing!
 - *2026.08*: 🎉 One paper has been accepted to EMNLP 2026 Findings!
+- *2026.07*: 🥳 Organized the [Continual Learning in the Era of Foundation Models and Embodied Agents](https://neurips26-cl4fmagents.github.io/) Workshop at NeurIPS 2026.
 - *2026.04*: 🎉 One paper has been accepted to ACL 2026!
 - *2026.01*: 🎉 Two papers have been accepted to ICLR 2026!
 - *2025.08*: 🎉 Two papers have been accepted to EMNLP 2025!
@@ -137,6 +138,6 @@ Previously, during my master's studies, I did some research on spatial-temporal 
   COMP 2021: Data Structures, Fall 2023 | 2022, PolyU     
   C Language, Fall 2017 | 2016, HITwh  
 * **Reviewer** of ACL/EMNLP/NAACL/ICLR/NeurIPS/ICML/KDD/TNNLS
-
+* **Workshop Organizer / Program Co-Chair** NeurIPS 2026 Workshop on Continual Learning in the Era of Foundation Models and Embodied Agents (CL4FMAgents), Sydney, Australia
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=500&t=n&d=5tx0EW8pZhiEy3KYuV1BAJe55P2ZABjJMLRjJDbC1io&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
