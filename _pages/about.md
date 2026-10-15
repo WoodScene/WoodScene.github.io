@@ -39,8 +39,7 @@ Previously, during my master's studies, I did some research on spatial-temporal 
 
 <!--😊 *I am open to collaborations and discussions. Please feel free to reach out to me if you are interested in my research or any relevant topics.*-->
 
-📢  **<font color=red>We are recruiting research interns on agent self-evolution and memory-based adaptation for LLM-based agents. Please feel free to reach out if you are interested!</font>**
-
+📢  **<font color=red>We are recruiting research interns on agent self-evolution and memory. The position is onsite (Beijing or Hangzhou), and a long-term commitment is preferred. Please feel free to reach out if you are interested!</font>**
 
 # 🔥 News
 - *2026.10*: 🎉 One paper has been accepted to IEEE Transactions on Mobile Computing!
